@@ -6,8 +6,9 @@ Here some snapshots
 <img src = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/snapshots/b.png" width="100%" height="100%">
 <img src = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/snapshots/d.png" width="100%" height="100%">
 In order to retrieve the dataset and in general all external file used:
-You could download the project folder, run ```python -m http.server``` and then start the index.html (but comment the dataset path variables!).
-You could go [here](https://1655653.github.io/VICrime-Visual-Analytics-Project/) and try it on chrome.
+- You could go [here](https://1655653.github.io/VICrime-Visual-Analytics-Project/) and try it on chrome.
+- You could download the project folder, run ```python -m http.server``` and then start the index.html (but comment the dataset path variables!).
+
 Enjoy!
 
 A  very detailed description of the project has been produced [here](Visual.pdf)
