@@ -2,7 +2,7 @@
   //MenuCrimeSelection
 
 //generate list of crimes reading dataset of crimes
-var dataset_path = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/General/datasets/dataset_crimes/dataset1219.csv"
+//var dataset_path = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/General/datasets/dataset_crimes/dataset1219.csv"
 //var dataset_path = "datasets/dataset_crimes/dataset1219.csv"
 diz_selected_crimes={}
 colorCrime= null;

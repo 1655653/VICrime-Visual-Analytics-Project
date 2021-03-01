@@ -1,5 +1,5 @@
-url_regioni = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/General/datasets/dataset_mappa_italiana/mappa_italiana_regioni.json"
-url_province = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/General/datasets/dataset_mappa_italiana/mappa_italiana_provincie.json"
+url_regioni = "https://raw.githubusercontent.com/1655653/VICrime-Visual-Analytics-Project/main/General/datasets/dataset_mappa_italiana/mappa_italiana_regioni.json"
+url_province = "https://raw.githubusercontent.com/1655653/VICrime-Visual-Analytics-Project/main/General/datasets/dataset_mappa_italiana/mappa_italiana_provincie.json"
 //url_regioni = "./datasets/dataset_mappa_italiana/mappa_italiana_regioni.json"
 //url_province = "./datasets/dataset_mappa_italiana/mappa_italiana_provincie.json"
 var countStroke=false;
