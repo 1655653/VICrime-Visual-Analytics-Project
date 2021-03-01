@@ -7,8 +7,8 @@ Here some snapshots
 <img src = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/snapshots/d.png" width="100%" height="100%">
 In order to retrieve the dataset and in general all external file used, the user must download the project folder, run ```python -m http.server``` and then start the index.html. Enjoy!
 
-A  very detailed description of the project has been produced [here](visual.pdf)
-But if you are in a hurry, [here](Italian Crime Visualizator.pdf) there is the short version.
+A  very detailed description of the project has been produced [here](Visual.pdf)
+But if you are in a hurry, [here](Italian%20Crime%20Visualizator.pdf) there is the short version.
 
 ## Authors 
 
