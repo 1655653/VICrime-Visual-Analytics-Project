@@ -8,6 +8,7 @@ Here some snapshots
 In order to retrieve the dataset and in general all external file used, the user must download the project folder, run ```python -m http.server``` and then start the index.html. Enjoy!
 
 A  very detailed description of the project has been produced [here](report.pdf)
+But if you are in a hurry, [here](slide.pdf) there is the short version.
 
 ## Authors 
 
