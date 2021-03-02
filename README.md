@@ -3,13 +3,13 @@
 Crime visualization of Italy territories (regions and provinces) in the years 2012-2019. Project made for Visual Analytics course.
 
 In order to retrieve the dataset and in general all external file used:
-- You could go [here](https://1655653.github.io/VICrime-Visual-Analytics-Project/) and try it on chrome.
+- You could [try it](https://1655653.github.io/VICrime-Visual-Analytics-Project/) on chrome.
 - You could download the project folder, run ```python -m http.server``` and then start the index.html (but change the dataset path and the url_province url_regioni variable!).
 
 Enjoy!
 
-A  very detailed description of the project has been produced [here](Visual.pdf)
-But if you are in a hurry, [here](Italian%20Crime%20Visualizator.pdf) there is the short version.
+A  very detailed description of the project has been produced [here](Visual.pdf).
+<br>But if you are in a hurry, [there is the short version.](Italian%20Crime%20Visualizator.pdf) 
 
 ## Authors 
 
