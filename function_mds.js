@@ -1,4 +1,7 @@
 var dataset_path = "https://raw.githubusercontent.com/1655653/VICrime-Visual-Analytics-Project/main/datasets/dataset_crimes/dataset1219.csv"
+var url_regioni = "https://raw.githubusercontent.com/1655653/VICrime-Visual-Analytics-Project/main/datasets/dataset_mappa_italiana/mappa_italiana_regioni.json"
+var url_province = "https://raw.githubusercontent.com/1655653/VICrime-Visual-Analytics-Project/main/datasets/dataset_mappa_italiana/mappa_italiana_provincie.json"
+
 //var dataset_path = "datasets/dataset_crimes/dataset1219.csv"
 function createMDS(vis, pop, coeff, year, visibleLabel, evolutionMode){
 
