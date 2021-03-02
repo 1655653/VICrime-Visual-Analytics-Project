@@ -17,7 +17,7 @@ ABSOLUTE = false
 CRIMES = []
 MDS_PC_LOCK = false
 //per evitare il cross origin
-var dataset_path = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/datasets/dataset_crimes/dataset1219.csv"
+//var dataset_path = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/General/datasets/dataset_crimes/dataset1219.csv"
 //var dataset_path = "datasets/dataset_crimes/dataset1219.csv"
 //inizializzazione elementi del dom
 //fill dropmenu degli anni 
