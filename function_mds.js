@@ -1,4 +1,4 @@
-var dataset_path = "https://raw.githubusercontent.com/1655653/VICrime-Visual-Analytics-Project/main/General/datasets/dataset_crimes/dataset1219.csv"
+var dataset_path = "https://raw.githubusercontent.com/1655653/VICrime-Visual-Analytics-Project/main/datasets/dataset_crimes/dataset1219.csv"
 //var dataset_path = "datasets/dataset_crimes/dataset1219.csv"
 function createMDS(vis, pop, coeff, year, visibleLabel, evolutionMode){
 
